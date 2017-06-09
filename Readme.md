@@ -21,6 +21,6 @@ Probably will not be placing power pole ghosts.
 * Chunk granularity level coordinate treatment
 * Radar coverage area encapsulation
 * Optional dependency on known radar adding/modifying mods
-..* RSO Radar
-..* Satellite Radar
-..* Big Brother
+  * RSO Radar
+  * Satellite Radar
+  * Big Brother
