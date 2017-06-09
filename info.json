@@ -1,0 +1,11 @@
+{
+  "name": "RadarAutoGhost",
+  "version": "0.0.1",
+  "title": "Radar Auto Ghost",
+  "author": "Mengmoshu",
+  "contact": "https://github.com/Mengmoshu/RadarAutoGhost",
+  "description": "Automatically place ghosts for Radars at the optimum distance for complete coverage.",
+  "dependencies": ["base"],
+  "license": "MIT",
+  "factorio_version": "0.15"
+} 
